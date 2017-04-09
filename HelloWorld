@@ -1,0 +1,9 @@
+using system;
+
+Class Hello
+{
+ Public Static Void Main(string[] args)
+ {
+   Console.WriteLine("Hello World");
+ }
+}
